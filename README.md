@@ -1,2 +1,2 @@
-# downtimecalc.github.io
-Download Time Calculator
+# downtimecalc
+Download Time Calculator with PHP.
