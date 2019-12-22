@@ -19,7 +19,6 @@
             border-radius: 4px;
             box-sizing: border-box;
         }
-
         input[type=submit] {
             width: 100%;
             background-color: #4CAF50;
@@ -30,11 +29,9 @@
             border-radius: 4px;
             cursor: pointer;
         }
-
         input[type=submit]:hover {
             background-color: #45a049;
         }
-
         .content{
             border-radius: 5px;
             background-color: #465165;
@@ -43,12 +40,10 @@
             display: block;
             color: white;
         }
-
         .result{
             min-height: 65px;
             height: auto;
         }
-
         .main{
             margin: 0;
             position: absolute;
@@ -57,9 +52,6 @@
             -ms-transform: translate(-50%, -50%);
             transform: translate(-50%, -50%);
         }
-
-        
-
     </style>
 </head>
 <body class="center">
@@ -161,5 +153,3 @@
     </div>
 </body>
 </html>
-
-
